@@ -1,5 +1,5 @@
 # CSE499-Vision-Studio-
-Human-Guided Adversarial Synthesis Benchmarking the Robustness of Stable Diffusion Models and Deepfake Detection Models
+Human-Guided Adversarial Synthesis Benchmarking the Robustness of Stable Diffusion Models.
 #  CSE499A Benchmarking Project: Image Realism Evaluation
 
 ##  Overview
